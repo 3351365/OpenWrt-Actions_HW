@@ -2,7 +2,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: OpenWrt XY-C5 Hnat
+name: OpenWrt k2p Hnat
 
 on:
   repository_dispatch:
